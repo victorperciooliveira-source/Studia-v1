@@ -1,0 +1,6 @@
+{
+  "name": "Studia",
+  "description": "Sistema completo de gestão de horários, laboratórios e presença escolar, inspirado no Urânia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
